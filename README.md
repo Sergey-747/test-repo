@@ -33,19 +33,23 @@
 - [x] Изучить базовый синтаксис Markdown
 - [ ] Написать README.md для проекта
 
-# ссылки внутри проекта
-my-project/
+```text
 ├── README.md
-├── LICENSE
+├── slovo.py
 ├── docs/
 │   ├── installation.md
 │   └── images/
 │       └── screenshot.png
 └── src/
-    └── main.py
+└── main.py
+```
 ## Файл находится в той же папке
-Пожалуйста, ознакомьтесь с [лицензией проекта](slovo.py).
+Пожалуйста, ознакомьтесь с [первый код на Python](slovo.py).
 
+## Ссылка на конкретный заголовок (якорь)
+[Вклад](readme.md#Contributing)
+index.html
+Document
 
 
 # Foobar
