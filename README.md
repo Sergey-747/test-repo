@@ -47,7 +47,7 @@
 Пожалуйста, ознакомьтесь с [первый код на Python](slovo.py).
 
 ## Ссылка на конкретный заголовок (якорь)
-[Вклад](readme.md#Contributing)
+[Вклад](readme.md##Contributing)
 index.html
 Document
 
